@@ -1,1 +1,1 @@
-It is a  coursework of mine which is my first project concerning machine learning and artificial intelligence. The files includes a lot of attemptation and chinese comment. If you are looking for a systematic details about what I have done, please check the report I upload.
+It is a  coursework of mine which is concerning machine learning and artificial intelligence. The files includes a lot of attemptation and chinese comments. If you are looking for a systematic details about what I have done, please check the report I upload.
